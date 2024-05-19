@@ -26,6 +26,8 @@ sudo python3 server.py --path <<path>> --read-only
 ```
 
 ### With monitor
+
+---
 **PyUDPBD** provides block device monitor to run the server automatically
 
 ```shell
